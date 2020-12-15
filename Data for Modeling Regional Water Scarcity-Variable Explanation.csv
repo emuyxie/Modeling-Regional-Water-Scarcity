@@ -1,0 +1,57 @@
+Variable Abbreviation,Explanation,Unit
+CID,County Index,n/a
+Year,the year,n/a
+Time_S,the time series index,n/a
+LkArea,the area of lakes,square kilomenters
+Temp,Celsius,Celsius
+Precip,milimeter,milimeter
+GW,Ground watertable level,meter
+POP,Population,10000 Person
+GDP,Gross Domestic Product,10000 Yuan
+GOVA,"Gross Output Value of Farming, Forestry, Animal Husbandry and Fishery (Agriculture)",10000 Yuan
+AA,Arable Area  ,Hectare
+GRAIN,Yield of Grain(ton),Ton
+LSC,The total count of the livestock by the end of the year,10000 Heads
+LSS,The count of the livestock sold in market,10000 Heads
+LA,Large Animals,10000 Heads
+SG,Sheep & Goats,10000 Heads
+FAI,Fixed Assets Investment,10000 Yuan
+LGR,Local Government Revenue,10000 Yuan
+IOFP,Per capita net income of farmers and pastoralists,Yuan
+LOH,The total length of Highways,Kilometer
+RPOP,Rural Population,10000 Person
+UrbanLand,Land Area of Urban,Square meters
+Water,Land Area of Water,Square meters
+Forest,Land Area of Forest,Square meters
+Shrub,Land Area of Shrub,Square meters
+Grass,Land Area of Grass,Square meters
+Crop,Land Area of Crop,Square meters
+Sand,Land Area of Sand,Square meters
+TotalArea,Total Land Area,Square meters
+gdppc,GPD per capita,10000 Yuan
+srural,Percentage of rural population over total population,%
+daa,Percentage of arable area over total area by county,%
+dgr,Grain production per square kilometers by county,kilograms
+dlsc,Number of total livestock count per square kilometers by county,10000 Heads
+dlss,Number of livestock sold in market per square kilometers by county,10000 Heads
+dla,Number of livestock per square kilometers by county,10000 Heads
+dsg,Number of livestock per square kilometers by county,10000 Heads
+dhw,Length of highways (meters) per square kilometers by county,meter/kilometer
+sgova,Gross output value of agriculture as share of GDP,%
+sinv,Fixed asset (government) investment as share of GDP,%
+slgov,Local government revenue of as share of GDP,%
+sfinc,Net income of farmers and pastoralists as share of GDP,%
+Purban,Percentage of Urban Area to Total Land Area,%
+PForest,Percentage of Forest Area to Total Land Area,%
+PShrub,Percentage of Shrub Area to Total Land Area,%
+PGrass,Percentage of Grass Area to Total Land Area,%
+PCrop,Percentage of PCrop Area to Total Land Area,%
+Lnlake,Natural log of lake area,%
+Lglake,Common log of lake area,%
+LnGW,Natural log of graounwater table level,%
+NLnGW,Negative natural log of groundwate table level,%
+PULake,Percentage of Urban Area to Lake Area,%
+PUNland,Percentage of Urban Area to Natural Land Area,%
+PUGrass,Percentage of Urban Area to Grass Land Area,%
+PUCrop,Percentage of Urban Area to Crop Land Area,%
+Comp,Compensation Policy Dummy Variable,dummy
